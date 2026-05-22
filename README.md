@@ -1,16 +1,17 @@
-## Hi there 👋
+### 👋 Olá, eu sou a Gleicyellen
 
-<!--
-**ellen8744/ellen8744** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de tecnologia focada em Cloud e Dados.
 
-Here are some ideas to get you started:
+### 🏆 Certificações
+Google Cloud Computing Foundations Certificate
+<a href="https://www.credly.com/badges/03662014-f2e7-403e-b3ec-b2f59025d8a8">
+  <img src="https://github.com/user-attachments/assets/6fc6d73b-5cb8-4634-8947-8c3eeef6b267" 
+       alt="Google Cloud Computing Foundations Certificate" 
+       width="150">
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Em aprendizado
+Google Cloud | Python | SQL | BigQuery
+
+### 📫 Contato
+[LinkedIn](https://www.linkedin.com/in/gleicyellen-e97202345)

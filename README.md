@@ -11,7 +11,7 @@
 
 01 // ABOUT ME
 
-name: Gleicyellen
+name: Gleicyellen Alves da Silva
 username: ellen8744
 role: Technology Student
 main_focus:
